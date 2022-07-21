@@ -10,12 +10,15 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Bryan Blair </span>
             from <span className="purple"> Johannesburg, South Africa.</span>
-            <br />I am a junior fullstack developer seeking employment based in Europe.
+            <br />I am a junior fullstack developer, based in <span className="purple"> Europe, </span> seeking employment.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
+          <li className="about-activity">
+              <ImPointRight /> Aviation
+            </li>
             <li className="about-activity">
               <ImPointRight /> Geopolitics
             </li>
@@ -24,13 +27,13 @@ function AboutCard() {
             </li>
             <li className="about-activity">
               <ImPointRight /> Adventure Travel
-            </li>
+            </li>            
           </ul>
-
+          <br />
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "If you are working on something exciting that you really care about, you don’t have to be pushed. The vision pulls you"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Steve Jobs</footer>
         </blockquote>
       </Card.Body>
     </Card>

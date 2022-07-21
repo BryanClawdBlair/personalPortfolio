@@ -8,6 +8,7 @@ function Type() {
         strings: [
           "Fullstack Developer",
           "Commercial Pilot",
+          "Teacher",
         ],
         autoStart: true,
         loop: true,
