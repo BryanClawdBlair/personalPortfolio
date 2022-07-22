@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Bryan Blair </span>
             from <span className="purple"> Johannesburg, South Africa.</span>
-            <br />I am a junior fullstack developer, based in <span className="purple"> Europe, </span> seeking employment.
+            <br />Former <span className="purple">teacher</span> and <span className="purple">commercial pilot,</span> now <span className="purple">junior fullstack developer,</span> based in <span className="purple"> Europe, </span> seeking employment.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
