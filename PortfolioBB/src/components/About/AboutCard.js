@@ -10,7 +10,8 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Bryan Blair </span>
             from <span className="purple"> Johannesburg, South Africa.</span>
-            <br />Former <span className="purple">teacher</span> and <span className="purple">commercial pilot,</span> now <span className="purple">junior fullstack developer,</span> based in <span className="purple"> Europe, </span> seeking employment.
+            Former <span className="purple">teacher</span> and <span className="purple">commercial pilot,</span> now <span className="purple">junior fullstack developer,</span> based in <span className="purple"> Europe, </span> seeking employment.
+            <br />
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -29,11 +30,7 @@ function AboutCard() {
               <ImPointRight /> Adventure Travel
             </li>            
           </ul>
-          <br />
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "If you are working on something exciting that you really care about, you don’t have to be pushed. The vision pulls you"{" "}
-          </p>
-          <footer className="blockquote-footer">Steve Jobs</footer>
+          <br />          
         </blockquote>
       </Card.Body>
     </Card>
